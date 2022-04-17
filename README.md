@@ -17,7 +17,7 @@ Video games, in addition to representing an extremely relevant field of entertai
 
 ### Code
 
-**[Jupyter Notebook](src/I3D_2022.ipynb).** There is a button named `Open in Colab` that redirects to Google Colab.
+**[Jupyter Notebook](src/I3D_2022.ipynb).** We recommend to run the code on Google Colab.
 
 ### Paper
 
