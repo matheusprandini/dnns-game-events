@@ -21,4 +21,4 @@ Video games, in addition to representing an extremely relevant field of entertai
 
 ### Paper
 
-**[SI3D 2022](docs/SI3D_2022.pdf).** Camera ready version.
+**[SI3D 2022](docs/I3D_2022.pdf).** Camera ready version.
