@@ -1,5 +1,6 @@
 ## Investigating the Performance of Various Deep Neural Networks-based Approaches Designed to Identify Game Events in Gameplay Footage
 
+
 ### Authors
 
 - Matheus Prado Prandini Faria.
